@@ -5,10 +5,6 @@
 ###### https://github.com/harasuke/SwSh-Showdown-Layout
 
 ###### I only modified styles in the actual battles, any other changes, such as team builder, are from the original author.
-
-###### Link to spinning pokeball logo provided at bottom of page.
-
-###### Background created by layering multiple sources that I combined a while back. I don't have the sources due to the time gap, but they are not created by me, only stacked for a desktop background.
  
 #### Usage
 ##### Intended to be used with the Stylus browser extension to be implemented on Pokemon Showdown. 
@@ -45,4 +41,5 @@
 
 [Spinning pokeball logo](https://dribbble.com/shots/2859472-go-animation)
 
+###### Background created by layering multiple sources I found a while back. I don't have the sources of the original images due to the time gap, but they are not created by me.  
 
