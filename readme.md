@@ -30,7 +30,7 @@
 
 ![This is an alt text.](https://raw.githubusercontent.com/C-Lee-Hamilton/Showdown-Layout/main/preview1.png "This is a sample image.")
 
-![This is an alt text.](https://raw.githubusercontent.com/C-Lee-Hamilton/Showdown-Layout/main/preview2.png "This is a sample image.")
+![This is an alt text.](https://raw.githubusercontent.com/C-Lee-Hamilton/Showdown-Layout/main/previewx.png "This is a sample image.")
 
 ##### Notes
 ###### I am not sure how dynamic the styling is. I set it up to work on both my monitors, so it should work. If it doesn't, just scroll through the file and find the sizes. You can modify everything with context clues or AI if need be. 
