@@ -41,5 +41,5 @@
 
 [Spinning pokeball logo](https://dribbble.com/shots/2859472-go-animation)
 
-###### Background created by layering multiple sources I found a while back. I don't have the sources of the original images due to the time gap, but they are not created by me.  
+
 
