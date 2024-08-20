@@ -54,7 +54,7 @@ UPDATED BY
 }
       
 
-    
+        /* change background with image url here for dark mode*/
  
     .dark .ps-room.ps-room-opaque {
     background: #222 url("https://preview.redd.it/generic-title-v0-qhwjwduupvjd1.jpeg?auto=webp&s=05bd1e53ebd400436297a57f0af2785f862234c3") ;
@@ -63,7 +63,7 @@ UPDATED BY
         
         
     
-        
+         /* change background with image url here for light mode*/
         
 }
    .ps-room.ps-room-opaque {
