@@ -4,6 +4,8 @@
 ###### This is a slightly modified version of the Sword and Shield layout by harasuke from the following link, also linked at the bottom of this page.
 ###### https://github.com/harasuke/SwSh-Showdown-Layout
 
+###### I only modified styles in the actual battles, any other changes, such as team builder, are from the original author.
+
 ###### Link to spinning pokeball logo provided at bottom of page.
 
 ###### Background created by layering multiple sources that I combined a while back. I don't have the sources due to the time gap, but they are not created by me, only stacked for a desktop background.
@@ -26,7 +28,7 @@
 * swapped out logo because I found a cool one
 * changed background
 * various other small changes not documented
-###### I only changed stuff in the actual battles, any other changes such as team builder are from the original author, harasuke, not me.
+
 
 ## Images
 
