@@ -12,7 +12,7 @@
 ###### I usually disable the style by default and just activate it when I get to Showdown.
 
 #### Alternative Usage (easier)
-###### Download the original file to directly use in Stylus from https://userstyles.world/style/16603/pokemon-swsh-layout then just edit the file by replacing the existing css with the css from this page. 
+###### Download the original file directly to Stylus from https://userstyles.world/style/16603/pokemon-swsh-layout then just edit the file by replacing the existing css with the css from this page. 
 
 #### Changes made:
 * colors modified to a red and black theme
