@@ -26,6 +26,7 @@
 * swapped out logo because I found a cool one
 * changed background
 * various other small changes not documented
+###### I only changed stuff in the actual battles, any other changes such as team builder are from the original author, harasuke, not me.
 
 ## Images
 
