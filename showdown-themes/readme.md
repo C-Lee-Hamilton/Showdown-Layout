@@ -13,7 +13,7 @@
 * increased battleground size
 * moved chat and made smaller
 * moved some things around to fit new sizing
-* swapped out logo because I found a cool one
+* swapped out logo to a spinning pokeball
 * various other small changes not documented
  
 #### Use
