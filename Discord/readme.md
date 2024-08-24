@@ -2,7 +2,7 @@
 
 
 ###### No preview available
-###### Details:
+#### Details:
 * Removed right panel
 * Made icons and left panel significantly smaller
 * Increased font size with added margin between username and text
