@@ -24,9 +24,9 @@
 
 ## Images
 
-![This is an alt text.]([https://raw.githubusercontent.com/C-Lee-Hamilton/Showdown-Layout/main/preview1.png](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/showdown-themes/preview1.png?raw=true) "This is a sample image.")
+![Alt text](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/showdown-themes/previewx.png?raw=true "a title")
 
-![This is an alt text.]([https://raw.githubusercontent.com/C-Lee-Hamilton/Showdown-Layout/main/previewx.png](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/showdown-themes/previewx.png?raw=true) "This is a sample image.")
+![Alt text](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/showdown-themes/preview1.png?raw=true "a title")
 
 ##### Notes
 ###### I am not sure how dynamic the styling is. I set it up to work on both my monitors, so it should work. If it doesn't, just scroll through the file and find the sizes. You can modify everything with context clues or AI if need be. 
