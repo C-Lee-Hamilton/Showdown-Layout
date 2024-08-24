@@ -5,6 +5,7 @@
 ###### https://github.com/harasuke/SwSh-Showdown-Layout
 
 ###### I only modified styles in the actual battles, any other changes, such as team builder, are from the original author.
+###### Due to some classnames being the same from the battle screen to the other tabs, formatting has been affected, so I would suggest turning off the theme when in any tab other than the battle tab. 
 
 #### Details:
 * colors modified to a red and black theme
