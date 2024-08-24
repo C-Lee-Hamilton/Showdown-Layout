@@ -16,7 +16,7 @@
 * swapped out logo to a spinning pokeball
 * various other small changes not documented
  
-#### Use:
+#### Usage:
 ###### Write new style in Stylus, under "Code 1" select "URLs on domain", then add "play.pokemonshowdown.com", "psim.us", and "replay.pokemonshowdown.com". Copy and paste text from css document then save. Enable or disable based on preference.
 
 #### Alternate Installation: 
