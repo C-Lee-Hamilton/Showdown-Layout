@@ -28,10 +28,10 @@
 
 ![Alt text](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/showdown-themes/preview1.png?raw=true "a title")
 
-##### Notes:
+#### Notes:
 ###### I am not sure how dynamic the styling is. I set it up to work on both my monitors, so it should work. If it doesn't, just scroll through the file and find the sizes. You can modify everything with context clues or AI if need be. 
 
-## Sources:
+#### Sources:
 
 [Original SwSh layout by harasuke](https://github.com/harasuke/SwSh-Showdown-Layout)
 
