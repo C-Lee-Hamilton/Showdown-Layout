@@ -238,6 +238,25 @@
     width:150px;
 }
 
+/* Search for not logged in */
+.font-sans.text-white.text-\[16px\].font-medium.p-4.rounded-full.transition.duration-300.ease-in-out.shadow-lg.buttonAnimate.hover\:opacity-90.items-center.justify-center{
+    background-color:black;
+    border:2px solid red;
+    background-image:none;
+}
+/* Login logo */
+.cl-logoImage.🔒️.cl-internal-uumn80{
+    opacity:0;
+}
+.cl-internal-h2kts3{
+    background-image:var(--logo);
+    height:200px;
+    width:200px;
+    background-size:contain;
+    background-repeat:no-repeat;
+    margin-top:-20px;
+}
+
 div{color:var(--text) !important;}
 p{color:var(--text)!important;}
 h1{color:var(--text) !important;}
