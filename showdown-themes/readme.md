@@ -16,22 +16,22 @@
 * swapped out logo to a spinning pokeball
 * various other small changes not documented
  
-#### Use
+#### Use:
 ###### Write new style in Stylus, under "Code 1" select "URLs on domain", then add "play.pokemonshowdown.com", "psim.us", and "replay.pokemonshowdown.com". Copy and paste text from css document then save. Enable or disable based on preference.
 
 #### Alternate Installation 
 ###### Download the original file directly to Stylus from https://userstyles.world/style/16603/pokemon-swsh-layout then just edit the file by replacing the existing css with the css from this page. 
 
-#### Images
+#### Images:
 
 ![Alt text](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/showdown-themes/previewx.png?raw=true "a title")
 
 ![Alt text](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/showdown-themes/preview1.png?raw=true "a title")
 
-##### Notes
+##### Notes:
 ###### I am not sure how dynamic the styling is. I set it up to work on both my monitors, so it should work. If it doesn't, just scroll through the file and find the sizes. You can modify everything with context clues or AI if need be. 
 
-## Sources
+## Sources:
 
 [Original SwSh layout by harasuke](https://github.com/harasuke/SwSh-Showdown-Layout)
 
