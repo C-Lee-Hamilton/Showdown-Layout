@@ -9,5 +9,5 @@
 * Changed background color in text area to dark grey
 * Centered message input bar
 
-### Use
+#### Usage:
 ###### Write new style in Stylus, under "Code 1" select "URLs on domain", then add "Discord.com". Copy and paste text from css document then save. Enable or disable based on preference. 
