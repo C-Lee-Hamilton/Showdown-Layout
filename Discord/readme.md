@@ -10,4 +10,4 @@
 * Centered message input bar
 
 ### Use
-###### Write new style in Stylus, under "Code 1" select "URLs on domain". Copy and paste text from css document then save. Enable or disable based on preference. 
+###### Write new style in Stylus, under "Code 1" select "URLs on domain", then add "Discord.com". Copy and paste text from css document then save. Enable or disable based on preference. 
