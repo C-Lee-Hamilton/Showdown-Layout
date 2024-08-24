@@ -12,7 +12,7 @@
 * Various other small changes 
 
 
-#### Use:
+#### Usage:
 ###### Write new style in Stylus, under "Code 1" select "URLs on domain", then add "Suno.com". Copy and paste text from css document then save. Enable or disable based on preference.
 
 ###### Multiple themes available, default is white and black as pictured below. At the top of the document, you can select a new theme by highlighting the current theme, typing "ctrl+/", then highlighting the new theme and typing "ctrl+/" again. 
