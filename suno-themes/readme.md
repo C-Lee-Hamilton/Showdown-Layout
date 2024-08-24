@@ -17,6 +17,6 @@
 
 ###### Multiple themes available, default is white and black as pictured below. At the top of the document, you can select a new theme by highlighting the current theme, typing "ctrl+/", then highlighting the new theme and typing "ctrl+/" again. 
 
-###### Create custom color themes by copy and pasting any of the themes and replacing the colors, alternate colored logos available in the logo-variations folder, just go into the folder, open the image, right click and copy image link, then replace url in theme with new url. 
+###### Create custom color themes by copy and pasting any of the themes and replacing the colors, alternate colored logos available in the logo-variations folder, just go into the folder, open the image, right click and copy image link, then replace the url in the theme with the new url. 
 
 ![Alt text](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/suno-themes/preview.png?raw=true "a title")
