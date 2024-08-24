@@ -1,13 +1,13 @@
 /* THEMES */
 /* DEFAULT  */
-/* :root {
+:root {
   --bg: #0e0808;
   --border:white;  
   --text:white; 
   --sidebar:black;
   --logo:url("https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/suno-themes/logo-variations/basic.png?raw=true");  
 }
- */
+
 
 /* LIGHT */
 /* :root {
@@ -19,13 +19,13 @@
 }
  */
 /* RED */
-:root {
+/* :root {
   --bg: black;
   --border:red;  
   --text:red; 
   --sidebar:#0e0808;
   --logo:url("https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/suno-themes/logo-variations/red.png?raw=true");  
-}
+} */
 
 /* GREEN */
 /* :root {
@@ -44,6 +44,7 @@
   --sidebar:orange;
   --logo:url("https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/suno-themes/logo-variations/neon.png?raw=true");  
 } */
+
 
 /* body background */
 .p-4.h-full.w-full.bg-vinylBlack-darker.overflow-y-scroll{
@@ -227,7 +228,7 @@
 
 .font-sans.text-white.text-\[16px\].font-medium.p-4.rounded-full.transition.duration-300.ease-in-out.shadow-lg.buttonAnimate.w-full.opacity-50.cursor-not-allowed.items-center.justify-center{
     opacity:1;
-    background:black;
+    background:black !important;
     background-image:none;
     border:1px solid var(--border);
 }
@@ -237,11 +238,10 @@
     height:150px;
     width:150px;
 }
-
 /* Search for not logged in */
 .font-sans.text-white.text-\[16px\].font-medium.p-4.rounded-full.transition.duration-300.ease-in-out.shadow-lg.buttonAnimate.hover\:opacity-90.items-center.justify-center{
-    background-color:black;
-    border:2px solid red;
+    background-color:var(--bg);
+    border:2px solid var(--border);
     background-image:none;
 }
 /* Login logo */
@@ -256,6 +256,11 @@
     background-repeat:no-repeat;
     margin-top:-20px;
 }
+/* login button */
+.bg-primary.text-vinylBlack-darker.hover\:text-vinylBlack-darker.hover\:bg-secondary.hover\:border-transparentWhite.border.border-vinylBlack-darker.font-medium.font-sans.py-3.px-10.rounded-md.text-sm.flex.flex-row.flex-nowrap.items-center.justify-center{
+    background-color:var(--bg);
+    border:1px solid var(--border);
+}   
 
 div{color:var(--text) !important;}
 p{color:var(--text)!important;}
