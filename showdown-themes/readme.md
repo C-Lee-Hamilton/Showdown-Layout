@@ -22,7 +22,7 @@
 #### Alternate Installation 
 ###### Download the original file directly to Stylus from https://userstyles.world/style/16603/pokemon-swsh-layout then just edit the file by replacing the existing css with the css from this page. 
 
-## Images
+#### Images
 
 ![Alt text](https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/showdown-themes/previewx.png?raw=true "a title")
 
