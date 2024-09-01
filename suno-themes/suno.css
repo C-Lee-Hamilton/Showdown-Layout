@@ -45,7 +45,10 @@
   --logo:url("https://github.com/C-Lee-Hamilton/Website-Themes/blob/main/suno-themes/logo-variations/neon.png?raw=true");  
 } */
 
-
+/* Suno added new image logo, hiding here*/
+.logo-image{
+    visibility:hidden;
+}
 /* body background */
 .p-4.h-full.w-full.bg-vinylBlack-darker.overflow-y-scroll{
     background-color:var(--bg);
