@@ -9,6 +9,6 @@
 
    * All overlays default to the oak selections, just replace the url in the respective css to the ones you want. I set up multiple styles so I can toggle, you can also           just use the ones I made as templates to make your own. 
 
-### Recent Updates
+**Recent Updates**
 
   * Added alternate versions to turn the video and frames black and white. Check comments in the CSS for more details. 
