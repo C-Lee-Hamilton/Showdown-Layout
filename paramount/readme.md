@@ -1,9 +1,9 @@
-## Paramount Overlay
+## **Paramount Overlay**
 
 ### Covers black bars on the sides of videos
 
-  #### 4:3 Overlays work on full screen and the normal browser window
-  #### 16:9 Overlays disappear in full screen but show up in the normal browser window
+  ##### 4:3 Overlays work on full screen and the normal browser window
+  ##### 16:9 Overlays disappear in full screen but show up in the normal browser window
 
   * Find alternate frames inside the folders labeled "16-9" and "4-3"
 
@@ -11,4 +11,4 @@
 
 ### Recent Updates
 
-* Added alternate versions to turn the video and frames black and white. Check comments in the CSS for more details. 
+  * Added alternate versions to turn the video and frames black and white. Check comments in the CSS for more details. 
