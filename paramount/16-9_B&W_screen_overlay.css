@@ -1,0 +1,29 @@
+/* Turn your video black and white for some nostalgia
+If you want the frame to remain the same color, just remove the filter from the ::before */
+.player-services-smart-tag-content-element {
+    position: relative;
+}
+
+.player-services-smart-tag-content-element::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: url('https://raw.githubusercontent.com/C-Lee-Hamilton/Website-Themes/refs/heads/main/paramount/16-9/mahogany.png') no-repeat center center;
+    background-size: 100% 100%; 
+    z-index: 1000;
+    pointer-events: none; 
+    filter: brightness(130%) contrast(120%) grayscale(100%);
+}
+
+@media (min-height: 860px) {
+    .player-services-smart-tag-content-element::before {
+        display: none; /* Hide the overlay */
+    }
+}
+
+video {
+    filter: grayscale(100%);
+}
