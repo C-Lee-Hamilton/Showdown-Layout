@@ -10,4 +10,4 @@
 
 ### Recent Updates
 
-#### Added alternate versions to turn the video and frames black and white. Check comments in the CSS for more details. 
+##### Added alternate versions to turn the video and frames black and white. Check comments in the CSS for more details. 
