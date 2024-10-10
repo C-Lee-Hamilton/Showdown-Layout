@@ -1,3 +1,6 @@
 ## Paramount overlay
 
-#### This is just for 4:3 videos so you don't have to stare at the black bars on the side. 
+### Covers black bars on the sides of videos
+
+#### 4:3 Overlays work on full screen and the normal browser window
+#### 16:9 Overlays disappear in full screen but show up in the normal browser window
